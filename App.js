@@ -10,11 +10,11 @@ export default function App() {
             <Card
                 key={item.id}
                 {...item}
-                
+
             />
         )
-    })        
-    
+    })
+
     return (
         <div>
             <Navbar />

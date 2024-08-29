@@ -61,8 +61,8 @@ export default [
     },
     {
         id: 22,
-        title: "Undergraduate Topics in Computer Science",
-        description: ".",
+        title: "Artificial Intelligence and Geographic Information Systems",
+        description: "Research on the application of AI in GIS.",
         time: "Fall 2024",
         img: "automata.jpeg",
         status: {

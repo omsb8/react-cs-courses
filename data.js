@@ -1,9 +1,9 @@
 export default [
     {
-        id: 21,
-        title: "Automata Theory",
+        id: 27,
+        title: "Senior Project",
         description: ".",
-        time: "Spring 2024",
+        time: "Fall 2024",
         img: "automata.jpeg",
         status: {
             currentGrade: "Unknown Grade" ,
@@ -12,16 +12,88 @@ export default [
         currentlyTaken: true,
     },
     {
+        id: 26,
+        title: "Machine Learning",
+        description: ".",
+        time: "Fall 2024",
+        img: "automata.jpeg",
+        status: {
+            currentGrade: "Unknown Grade" ,
+            //reviewCount: 6
+        },
+        currentlyTaken: true,
+    },
+    {
+        id: 25,
+        title: "Computational Methods in Data Science",
+        description: ".",
+        time: "Fall 2024",
+        img: "automata.jpeg",
+        status: {
+            currentGrade: "Unknown Grade" ,
+            //reviewCount: 6
+        },
+        currentlyTaken: true,
+    },
+    {
+        id: 24,
+        title: "Big Data Management and Analytics",
+        description: ".",
+        time: "Fall 2024",
+        img: "automata.jpeg",
+        status: {
+            currentGrade: "Unknown Grade" ,
+            //reviewCount: 6
+        },
+        currentlyTaken: true,
+    },
+    {
+        id: 23,
+        title: "Computer Graphics",
+        description: ".",
+        time: "Fall 2024",
+        img: "automata.jpeg",
+        status: {
+            currentGrade: "Unknown Grade" ,
+            //reviewCount: 6
+        },
+        currentlyTaken: true,
+    },
+    {
+        id: 22,
+        title: "Undergraduate Topics in Computer Science",
+        description: ".",
+        time: "Fall 2024",
+        img: "automata.jpeg",
+        status: {
+            currentGrade: "A+" ,
+            //reviewCount: 6
+        },
+        currentlyTaken: true,
+    },
+    {
+        id: 21,
+        title: "Automata Theory",
+        description: ".",
+        time: "Spring 2024",
+        img: "automata.jpeg",
+        status: {
+            currentGrade: "Final Grade: B" ,
+            //reviewCount: 6
+        },
+        currentlyTaken: false,
+    },
+    {
         id: 20,
         title: "Advanced Algorithm Design and Analysis",
         description: ".",
         time: "Spring 2024",
         img: "Design-Algorithm.png",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "Final Grade: A+" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 19,
@@ -30,10 +102,10 @@ export default [
         time: "Spring 2024",
         img: "operating-system.webp",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "Final Grade: A+" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 18,
@@ -42,10 +114,10 @@ export default [
         time: "Spring 2024",
         img: "dbms.jpeg",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "Final Grade: A" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 17,
@@ -54,10 +126,10 @@ export default [
         time: "Spring 2024",
         img: "java-oops.jpeg",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "Final Grade: A" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 16,

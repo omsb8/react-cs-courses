@@ -40,7 +40,7 @@ export default [
         title: "Big Data Management and Analytics",
         description: ".",
         time: "Fall 2024",
-        img: "big-data2.jpeg",
+        img: "big-data3.jpg",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6

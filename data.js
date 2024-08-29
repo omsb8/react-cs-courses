@@ -4,7 +4,7 @@ export default [
         title: "Senior Project",
         description: ".",
         time: "Fall 2024",
-        img: "automata.jpeg",
+        img: "senior-project.webp",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -16,7 +16,7 @@ export default [
         title: "Machine Learning",
         description: ".",
         time: "Fall 2024",
-        img: "automata.jpeg",
+        img: "ml1.jpeg",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -28,7 +28,7 @@ export default [
         title: "Computational Methods in Data Science",
         description: ".",
         time: "Fall 2024",
-        img: "automata.jpeg",
+        img: "data-science.jpeg",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -40,7 +40,7 @@ export default [
         title: "Big Data Management and Analytics",
         description: ".",
         time: "Fall 2024",
-        img: "automata.jpeg",
+        img: "big-data.png",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -52,7 +52,7 @@ export default [
         title: "Computer Graphics",
         description: ".",
         time: "Fall 2024",
-        img: "automata.jpeg",
+        img: "cg.png",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -62,9 +62,9 @@ export default [
     {
         id: 22,
         title: "Artificial Intelligence and Geographic Information Systems",
-        description: "Research on the application of AI in GIS.",
+        description: "Research paper on the application of AI in GIS.",
         time: "Fall 2024",
-        img: "automata.jpeg",
+        img: "gis.jpg",
         status: {
             currentGrade: "A+" ,
             //reviewCount: 6

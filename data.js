@@ -40,7 +40,7 @@ export default [
         title: "Big Data Management and Analytics",
         description: ".",
         time: "Fall 2024",
-        img: "big-data1.png",
+        img: "big-data2.jpeg",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -66,7 +66,7 @@ export default [
         time: "Fall 2024",
         img: "gis1.png",
         status: {
-            currentGrade: "A+" ,
+            currentGrade: "Final Grade: A+" ,
             //reviewCount: 6
         },
         currentlyTaken: true,

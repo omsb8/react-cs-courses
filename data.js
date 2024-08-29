@@ -40,7 +40,7 @@ export default [
         title: "Big Data Management and Analytics",
         description: ".",
         time: "Fall 2024",
-        img: "big-data.png",
+        img: "big-data1.png",
         status: {
             currentGrade: "Unknown Grade" ,
             //reviewCount: 6
@@ -64,7 +64,7 @@ export default [
         title: "Artificial Intelligence and Geographic Information Systems",
         description: "Research paper on the application of AI in GIS.",
         time: "Fall 2024",
-        img: "gis.jpg",
+        img: "gis1.png",
         status: {
             currentGrade: "A+" ,
             //reviewCount: 6

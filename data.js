@@ -6,10 +6,10 @@ export default [
         time: "Fall 2024",
         img: "senior-project.webp",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "B+" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 26,
@@ -18,10 +18,10 @@ export default [
         time: "Fall 2024",
         img: "ml1.jpeg",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "A" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 25,
@@ -30,10 +30,10 @@ export default [
         time: "Fall 2024",
         img: "data-science.jpeg",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "A" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 24,
@@ -42,10 +42,10 @@ export default [
         time: "Fall 2024",
         img: "big-data3.jpg",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "A" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 23,
@@ -54,10 +54,10 @@ export default [
         time: "Fall 2024",
         img: "cg.png",
         status: {
-            currentGrade: "Unknown Grade" ,
+            currentGrade: "A" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 22,
@@ -69,7 +69,7 @@ export default [
             currentGrade: "Final Grade: A+" ,
             //reviewCount: 6
         },
-        currentlyTaken: true,
+        currentlyTaken: false,
     },
     {
         id: 21,
